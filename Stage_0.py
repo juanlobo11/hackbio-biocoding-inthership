@@ -1,3 +1,5 @@
+
+#make a dictionary with all my data
 group_members_data = {'Member 1': {
     "Name": "Juan Lobo",
     "Email": "lobojuancamilo1@gmail.com",
@@ -6,6 +8,8 @@ group_members_data = {'Member 1': {
     "Country": "Colombia",
     "Discipline": "Bioinformatics",
     "Programming Language" : "Python"}}
+
+#print in a understandable way
 
 print(f'''
 Member 1:
